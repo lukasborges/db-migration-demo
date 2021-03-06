@@ -4,6 +4,6 @@
      "host": "localhost",
      "port": "3306",
      "user": "root",
-     "password": "olho500AV#20",
+     "password": "teste",
      "database": "db-migration-demo"					    }
 }
