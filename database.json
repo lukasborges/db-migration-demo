@@ -1,0 +1,9 @@
+{
+  "dev": {
+     "driver": "mysql",
+     "host": "localhost",
+     "port": "3306",
+     "user": "root",
+     "password": "olho500AV#20",
+     "database": "db-migration-demo"					    }
+}
